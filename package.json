@@ -1,0 +1,48 @@
+{
+  "name": "react-basics-hooks-shopping-cart",
+  "version": "1.0.0",
+  "description": "A demo app to learn the basics of React and to create a shopping cart using hooks.",
+  "private": true,
+  "author": "Daniel Lucaci <dani@assemblerschool.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assembler-school/react-basics-hooks-shopping-cart.git"
+  },
+  "keywords": [
+    "react",
+    "basics",
+    "assembler-school"
+  ],
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.7.2",
+    "bootstrap": "^4.6.0",
+    "node-sass": "^5.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "4.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
